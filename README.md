@@ -39,6 +39,6 @@ To run the tool:
 
 The script deletes all favorited GIFs by sending a request to Discord's API that replaces your current GIF list (saved through a proto-encoded blob) with an empty one
 
-1. The script prepares an empty list of GIFs
+1. Prepares an empty list of GIFs
 2. It encodes this empty list into the format used by Discord (base64 protobuf)
 3. A request is sent to Discord’s servers, updating your settings with the empty list
