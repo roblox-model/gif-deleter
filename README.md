@@ -6,16 +6,12 @@
 
 ## Requirements ⚙️
 
-To run this script, you need:
-
 - [Node.js](https://nodejs.org/en/) **v21.6.1 or higher**
 - [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) (or another package manager like Yarn or pnpm)
 
 ---
 
 ## Installation 📥
-
-Follow these steps:
 
 1. Clone the repository to your local machine
 2. Navigate into the cloned directory
@@ -24,8 +20,6 @@ Follow these steps:
 ---
 
 ## Usage 🚀
-
-To run the tool:
 
 1. Run `npm start` to launch the script
 2. Enter your Discord token
