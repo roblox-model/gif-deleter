@@ -8,6 +8,7 @@
 
 - [Node.js](https://nodejs.org/en/) **v21.6.1 or higher**
 - [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) (or another package manager like Yarn or pnpm)
+- TypeScript and `tsx` (install globally via `npm install -g typescript tsx`)
 
 ---
 
@@ -21,11 +22,10 @@
 
 ## Usage 🚀
 
-1. Run `npm start` to launch the script
+1. Run `tsx .` to launch the script
 2. Enter your Discord token
-3. Done
 
-> ⚠️ **Warning**: This operation is irreversible. Make sure you really want to delete all your GIFs before running the script.
+> ⚠️ **Warning**: This operation is irreversible, make sure you really want to delete all your GIFs before running the script.
 
 ---
 
